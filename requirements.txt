@@ -1,0 +1,4 @@
+ping3==4.0.4
+requests==2.31.0
+flask==3.0.0
+loguru==0.7.2
